@@ -21,13 +21,16 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
     <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python,html,css,bash,dart" />
 </div>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=next,astro,react,tailwind,flutter" />
+    <img src="https://skillicons.dev/icons?i=next,astro,react,tailwind,fastapi,flutter" />
 </div>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,supabase,appwrite,mongodb" />
 </div>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=graphql,postman,git,github,arch,docker,figma,obsidian,notion,neovim,tmux" />
+    <img src="https://skillicons.dev/icons?i=graphql,postman,grafana,prometheus,prisma,pnpm,git,docker,figma,obsidian,notion,neovim,vim,tmux" />
+</div>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=github,arch,ubuntu,debian,vercel,cloudflare,netlify,heroku,wordpress" />
 </div>
 
 ---
