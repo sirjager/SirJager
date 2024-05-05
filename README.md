@@ -27,7 +27,7 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,supabase,appwrite,mongodb" />
 </div>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,arch,docker,figma,obsidian,neovim,tmux" />
+    <img src="https://skillicons.dev/icons?i=graphql,postman,git,github,arch,docker,figma,obsidian,notion,neovim,tmux" />
 </div>
 
 ---
