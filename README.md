@@ -16,156 +16,53 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
 
 ## Languages, Tools and Technologies
 
-<a title="Golang" href="https://go.dev">
-    <img title="Golang" align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
-</a>
-<a title="TypeScript" href="https://www.typescriptlang.org">
-    <img title="TypeScript" align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-</a>
-<a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-    <img title="JavaScript" align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</a>
-<a title="Python" href="https://www.python.org">
-    <img title="Python" align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-</a>
-<a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img title="HTML" align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-</a>
-<a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img title="CSS" align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-</a>
-<a title="Bash" href="https://www.gnu.org/software/bash">
-    <img title="Bash" align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</a>
-<a title="Dart" href="https://dart.dev">
-    <img title="Dart" align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
-</a>
+<img title="Golang" align="left" alt="Golang" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img title="TypeScript" align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img title="JavaScript" align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img title="Python" align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img title="HTML" align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img title="CSS" align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img title="Bash" align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img title="Dart" align="left" alt="Dart" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
 
 #
 
-<a title="gRPC" href="https://grpc.io">
-    <img title="gRPC" align="left" alt="gRPC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
-</a>
-
-<a title="Echo" href="https://echo.labstack.com">
-    <img title="Echo" align="left" alt="Echo" width="100px" style="margin-top:15px;padding-right:10px;" src="https://echo.labstack.com/img/logo-light.svg" />
-</a>
-
-<a title="GinGonic" href="https://gin-gonic.com">
-    <img title="GinGonic" align="left" alt="GinGonic" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
-</a>
-
-<a title="Astro" href="https://astro.build">
-    <img title="Astro" align="left" alt="Astro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-</a>
-
-<a title="NextJS" href="https://nextjs.org">
-    <img title="NextJS" align="left" alt="NextJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-</a>
-
-<a title="Qwik" href="https://qwik.builder.io">
-    <img title="Qwik" align="left" alt="Qwik" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" />
-</a>
-
-<a title="React" href="https://reactjs.org">
-    <img title="React" align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-</a>
-
-<a title="Tailwindcss" href="https://tailwindcss.com">
-    <img title="Tailwindcss" align="left" alt="Tailwindcss" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</a>
-
-<a title="DaisyUI" href="https://daisyui.com">
-    <img title="DaisyUI" align="left" alt="DaisyUI" width="50px" style="padding-right:10px;" src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" />
-</a>
-
-<a title="Flutter" href="https://flutter.dev">
-    <img title="Flutter" align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-</a>
+<img title="gRPC" align="left" alt="gRPC" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg" />
+<img title="Echo" align="left" alt="Echo" width="100px" style="margin-top:15px;padding-right:10px;" src="https://echo.labstack.com/img/logo-light.svg" />
+<img title="GinGonic" align="left" alt="GinGonic" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" />
+<img title="Astro" align="left" alt="Astro" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
+<img title="NextJS" align="left" alt="NextJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img title="Qwik" align="left" alt="Qwik" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" />
+<img title="React" align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img title="Tailwindcss" align="left" alt="Tailwindcss" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img title="DaisyUI" align="left" alt="DaisyUI" width="50px" style="padding-right:10px;" src="https://img.daisyui.com/images/daisyui-logo/daisyui-logomark.svg" />
+<img title="Flutter" align="left" alt="Flutter" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
 
 #
 
-<a title="Postgres" href="https://www.postgresql.org">
-    <img title="Postgres" align="left" alt="Postgres" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</a>
-
-<a title="MySQL" href="https://www.mysql.com">
-    <img title="MySQL" align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-</a>
-
-<a title="SQLite" href="https://www.sqlite.org">
+<img title="Postgres" align="left" alt="Postgres" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img title="MySQL" align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img title="SQLite" align="left" alt="SQLite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-</a>
-
-<a title="Redis" href="https://redis.io">
-    <img title="Redis" align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-</a>
-
-<a title="Firebase" href="https://firebase.google.com">
-    <img title="Firebase" align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
-</a>
-
-<a title="Supabase" href="https://supabase.com">
-    <img title="Supabase" align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
-</a>
-
-<a title="Appwrite" href="https://appwrite.io">
-    <img title="Appwrite" align="left" alt="Appwrite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
-</a>
-
-<a title="Mongodb" href="https://www.mongodb.com">
-    <img title="Mongodb" align="left" alt="Mongodb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-</a>
-
-<a title="Directus" href="https://directus.io">
+<img title="Redis" align="left" alt="Redis" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img title="Firebase" align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img title="Supabase" align="left" alt="Supabase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+<img title="Appwrite" align="left" alt="Appwrite" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg" />
+<img title="Mongodb" align="left" alt="Mongodb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
 <img title="Directus" align="left" alt="Directus" width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/15967950?s=48&v=4" />
-</a>
-
-<a title="Strapi" href="https://strapi.io">
 <img title="Strapi" align="left" alt="Strapi" width="50px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/19872173?s=200&v=4" />
-</a>
 
 #
 
-<a title="Git" href="https://git-scm.com">
 <img title="Git" align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-
-<a title="GitHub" href="https://github.com">
 <img title="GitHub" align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-</a>
-
-<a title="ArchLinux" href="https://archlinux.org">
 <img title="ArchLinux" align="left" alt="ArchLinux" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-</a>
-
-<a title="Docker" href="https://www.docker.com">
 <img title="Docker" align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
-</a>
-
-<a title="Swagger Docs" href="https://swagger.io">
 <img title="Swagger Docs" align="left" alt="Swagger Docs" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-</a>
-
-<a title='Figma' href='https://www.figma.com'>
 <img title="Figma" align="left" alt="Figma" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-</a>
-
-<a title="Obsidian" href="https://obsidian.md">
 <img title="Obsidian" align="left" alt="Obsidian" width="50px" style="padding-right:10px;" src="https://obsidian.md/images/obsidian-logo-gradient.svg" />
-</a>
-
-<a title="Notion" href="https://www.notion.so">
 <img title="Notion" align="left" alt="Notion" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-</a>
-
-<a title="Neovim" href="https://neovim.io">
 <img title="Neovim" align="left" alt="Neovim" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-</a>
-
-<a title="Tmux" href="https://tmux">
 <img title="Tmux" align="left" alt="Tmux" width="100px" style="padding-top:10px;padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tmux_logo.svg/608px-Tmux_logo.svg.png?20210507220303" />
-</a>
 
 #
 
