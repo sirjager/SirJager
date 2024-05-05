@@ -12,8 +12,15 @@
   a self-driven full-stack developer with a strong focus on developing high performance backend  <br> 
   apis and microservices using latest and greatest technologies.
   <br>
-  <br>
 </p>
+
+<div align="center"> 
+   <a href = "mailto:5321ankur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://in.linkedin.com/in/5321ankur" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://instagram.com/sirjager"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/sirjager"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/XBqUKeE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 
 <hr>
 
