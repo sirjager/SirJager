@@ -8,8 +8,9 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
   <a href = "mailto:5321ankur@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/5321ankur" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://instagram.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "https://twitter.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://twitter.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/XBqUKeE" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.facebook.com/JagerSir" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 </div>
 
 ---
@@ -29,9 +30,7 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
     <img src="https://skillicons.dev/icons?i=git,github,arch,docker,figma,obsidian,neovim,tmux" />
 </div>
 
-<br>
-<br>
-<br>
+---
 
 ## Github Stats
 
@@ -46,9 +45,10 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
 <br>
 <br>
 
---- 
+---
 
 ## Github Contributions Graph
+
 <div align="center">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirjager&bg_color=22272E&color=61DAFB&line=61DAFB&point=95BDFF&area=true&area_color=B4B4B8&hide_border=true&hide_title=true" width="100%"/>
   <br>
