@@ -18,7 +18,7 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
 ## Languages, Tools and Technologies
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python,html,css,bash,dart" />
+    <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python,html,css,bash,dart,markdown" />
 </div>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=next,astro,react,tailwind,fastapi,flutter" />
