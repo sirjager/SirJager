@@ -35,7 +35,7 @@
 
 <div align="center">
   <h2> Github Contributions Graph </h2>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirjager&bg_color=22272E&color=C7C8CC&line=9E9FA5&point=B4B4B8&area=true&area_color=B4B4B8&hide_border=true&hide_title=true" width="100%"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sirjager&bg_color=22272E&color=61DAFB&line=61DAFB&point=95BDFF&area=true&area_color=B4B4B8&hide_border=true&hide_title=true" width="100%"/>
   <br>
    <img alt="snake eating my contribution" src="https://github.com/sirjager/SirJager/blob/output/github-contribution-grid-snake-dark.svg">
    <br> <br>
