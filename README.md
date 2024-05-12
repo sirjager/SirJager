@@ -5,7 +5,7 @@
 Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a strong focus on developing high performance backend apis and microservices using latest and greatest technologies.
 
 <div align="left">
-  <a href = "mailto:5321ankur@gmail.com"><img src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contact@ankur-kumar.in"><img src="https://custom-icon-badges.demolab.com/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/5321ankur" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://instagram.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
