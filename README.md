@@ -64,7 +64,8 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
 
 ---
 
-## ✍🏼 Few Recently Published Blog Posts
+## ✍🏼 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💡 <a target='_blank' href='https://ankur-kumar.in/blog/welcome-to-my-website/'>Welcome to my website</a><!-- BLOG-POST-LIST:END -->
+ - 💡 <a target='_blank' href='https://ankur-kumar.in/blog/welcome-to-my-website/'>Welcome to my website</a>
+ <!-- BLOG-POST-LIST:END -->
