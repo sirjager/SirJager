@@ -65,7 +65,7 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
 ---
 
 ## ✍🏼 Few Recently Published Blog Posts
-<!-- STACKOVERFLOW:START -->
 
-<!-- STACKOVERFLOW:END -->
+<!-- BLOG-POST-LIST:START -->
 
+<!-- BLOG-POST-LIST:END -->
