@@ -1,0 +1,22 @@
+---
+name: Latest Blog Posts Workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://ankur-kumar.in/rss.xml"
+          template: "$newline - $randomEmoji(📝,✨,🚀,🔥,🎉,✏️,🌱,📄,💡,💬,⚡️) <a target='_blank' href='$url'>$title</a>"
+          max_post_count: 12
+          committer_username: sirjager
+          committer_email: bot@ankur-kumar.in
+          commit_message: "docs: :memo: added latest blog posts"
