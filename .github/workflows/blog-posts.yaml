@@ -1,5 +1,5 @@
 ---
-name: Latest Blog Posts Workflow
+name: Fetch Blog Posts Workflow
 on:
   workflow_dispatch:
   schedule:
