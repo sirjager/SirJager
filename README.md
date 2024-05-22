@@ -43,7 +43,7 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
         <img align="left" height=260 width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=sirjager&theme=react&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjager&hide=c%23,Swift,Scheme,Kotlin,PLpgSQL,powershell,C%2b%2b,Makefile,Mathematica,Ruby,Objective-C,CMake,Emacs%20Lisp,Lua,Stylus,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjager&hide=c%23,css,Swift,Scheme,Kotlin,PLpgSQL,powershell,C%2b%2b,Makefile,Mathematica,Ruby,Objective-C,CMake,Emacs%20Lisp,Lua,Stylus,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
 </div>
 <br>
