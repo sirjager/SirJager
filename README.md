@@ -42,7 +42,9 @@ focused on delivering automated, efficient and reliable solutions. Experienced i
 ## Github Stats
 
 <div align=center>
-    <img align="left" height=260 width=420 src="https://streak-stats.demolab.com?user=sirjager&theme=react&hide_border=true" alt="SirJager's Github Streak Stats" />
+    <a href="https://streak-stats.demolab.com?user=sirjager&theme=react&hide_border=true" title="Github Streak Stats">
+        <img align="left" height=260 width=420 src="https://streak-stats.demolab.com?user=sirjager&theme=react&hide_border=true" alt="SirJager's Github Streak Stats" />
+    </a>
     <a href="https://github.com/sirjager">
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirjager&hide=c%23,css,Swift,Scheme,Kotlin,PLpgSQL,powershell,C%2b%2b,Makefile,Mathematica,Ruby,Objective-C,CMake,Emacs%20Lisp,Lua,Stylus,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
