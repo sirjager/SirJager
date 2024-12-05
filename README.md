@@ -2,11 +2,13 @@
 
 ![Hello](https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;+Myself+Ankur+Kumar+!;&size=30)
 
-Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a strong focus on developing high performance backend apis and microservices using latest and greatest technologies.
+Hello, My name is Ankur Kumar.<br>
+A self-driven full-stack developer with 4+ years of coding experience, specializing in developing high-performance backend APIs, microservices, front-end development. <br/>
+Skilled in Linux workflows, scripting and multiple programming languages and CMS like Directus, Strapi, and WordPress, focused on delivering automated, efficient and reliable solutions. <br /> Experienced in mobile development using Flutter and currently learning React-Native. <br />
 
 <div align="left">
   <a href="https://ankur-kumar.in" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Website-%236479F2?style=for-the-badge&logo=globe&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contact@ankur-kumar.in"><img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:email@ankur-kumar.in"><img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://in.linkedin.com/in/5321ankur" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://instagram.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/sirjager"><img src="https://custom-icon-badges.demolab.com/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
@@ -61,10 +63,10 @@ Hello, My name is Ankur Kumar.<br> A self-driven full-stack developer with a str
    <br>
 </div>
 
-
 ---
 
 ## ✍🏼 Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
- - 💡 <a target='_blank' href='https://ankur-kumar.in/blog/welcome-to-my-website/'>Welcome to my website</a><!-- BLOG-POST-LIST:END -->
+
+- 💡 <a target='_blank' href='https://ankur-kumar.in/blog/welcome-to-my-website/'>Welcome to my website</a><!-- BLOG-POST-LIST:END -->
