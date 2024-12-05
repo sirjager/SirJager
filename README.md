@@ -42,7 +42,7 @@ focused on delivering automated, efficient and reliable solutions. Experienced i
 ## Github Stats
 
 <div align=center>
-    <a href="https://git.io/streak-stats" title="Streak Stats">
+    <a href="https://streak-stats.demolab.com?user=sirjager&theme=react&hide_border=true" title="Github Streak Stats">
         <img align="left" height=260 width=420 src="https://streak-stats.demolab.com?user=sirjager&theme=react&hide_border=true" alt="SirJager's Github Streak Stats" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
